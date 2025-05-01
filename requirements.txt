@@ -1,5 +1,9 @@
-panda
 streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+datacompy
 scipy
-sklearn
-IPython
+
