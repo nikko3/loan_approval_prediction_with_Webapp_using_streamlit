@@ -32,7 +32,7 @@ A web app that end users can utilize to predict loan approvals using a Random Fo
 4. Web App Python Code (streamlit_app.py)
 
 5. Web app link and screenshot
-
+https://loanapprovalpredictionwithwebappusingapp-fedfant7lrzbvndg6f3pd.streamlit.app/
 
 ## Results and Model Evaluation: 
 
