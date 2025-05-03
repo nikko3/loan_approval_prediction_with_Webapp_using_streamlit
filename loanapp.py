@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+print(np.__version__)
 
 # Load the trained model
 with open("Loan_Approval_Prediction.pkl", "rb") as file:
